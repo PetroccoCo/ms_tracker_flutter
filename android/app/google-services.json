@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "983185559911",
+    "firebase_url": "https://mstracker-15808.firebaseio.com",
+    "project_id": "mstracker-15808",
+    "storage_bucket": "mstracker-15808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983185559911:android:ed94bb1220607df2",
+        "android_client_info": {
+          "package_name": "co.petrocco.mstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983185559911-k106ssl2ad3hep7stuc6ih71s6hvepsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.petrocco.mstracker",
+            "certificate_hash": "263566635195b286f7ea8cd8920d7a9931f0b901"
+          }
+        },
+        {
+          "client_id": "983185559911-ebek8mbnevm48etpp25mp63ne9m5aiu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa6hNR4KqF_8xSpO9OXAwTlNt8aRN_EvE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983185559911-ebek8mbnevm48etpp25mp63ne9m5aiu9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "983185559911-r1r1poqju895l9sm8ritr4j160in2fgj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.petrocco.msTracker"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
